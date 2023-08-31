@@ -2,7 +2,6 @@
 <h3 align="center">🌟 Exploring MERN-iverse: Junior Dev with Major Dreams!</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naimurk" alt="naimurk" /></a> </p>
 
 - 🌱 I’m currently learning **Next js , Typescript**
 
