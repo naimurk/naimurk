@@ -10,6 +10,8 @@
 - 💬 Ask me about **React js, javascript, Typescript, Redux ,  Node js, Express js, MongoDB , Mongoose **
 
 - 📫 How to reach me **naimurk781@gmail.com**
+- LinkedIn [https://www.linkedin.com/in/naimurk//](https://www.linkedin.com/in/naimurk/)
+
 
 
 
