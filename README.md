@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next js, PostgreSQL , Prisma , Docker , Aws **
 
-- 👨‍💻 All of my projects are available at [https://naimurk-cd6ee.web.app/](https://naimurk-cd6ee.web.app/)
+- 👨‍💻 All of my projects are available at [https://naimurrahman.vercel.app/](https://naimurrahman.vercel.app/)
 
 - 💬 Ask me about **React js, javascript, Typescript, Redux ,  Node js, Express js, MongoDB , Mongoose **
 
